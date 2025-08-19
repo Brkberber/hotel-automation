@@ -32,7 +32,7 @@ The application includes user registration, login, reservation management, and p
 
 ## Requirements
 
-- **Python 3.6+**  
+- **Python 3.9**  
 - **PyQt5**  
 
 Install required libraries:
